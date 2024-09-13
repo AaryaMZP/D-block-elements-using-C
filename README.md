@@ -1,6 +1,3 @@
-# D-block-elements-using-C
-//Project on Creating D block on Modern Periodic Table project
-//Program done by Aarya Dubey Y22170801
 #include<stdio.h>
 int main(){
     int atomic_no,m,n;
